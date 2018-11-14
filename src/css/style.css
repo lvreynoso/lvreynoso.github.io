@@ -9,5 +9,9 @@
 }
 
 .body-text {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title-text {
     font-family: 'Marmelad', sans-serif;
 }
